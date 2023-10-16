@@ -1,0 +1,1 @@
+import{_ as t}from"./plugin-vue_export-helper-c27b6911.js";import{o,c as n,a as e}from"./app-cdacd89a.js";const c={},_=e("ul",null,[e("li",null,[e("a",{href:"../FQA"},"常見問題Q&A")])],-1),l=[_];function r(s,a){return o(),n("div",null,l)}const f=t(c,[["render",r],["__file","index.html.vue"]]);export{f as default};
